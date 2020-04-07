@@ -15,7 +15,7 @@ CONSUMER_SECRET=
 ACCESS_TOKEN=
 ACCESS_SECRET=
 ```
-- Uncomment the first 3 lines of [`main.rb`](./main.rb#L1:L3)
+- Uncomment the first 3 lines of [`main.rb`](./main.rb#L1:L3) (for local testing)
 
 ## On Twitter
 
