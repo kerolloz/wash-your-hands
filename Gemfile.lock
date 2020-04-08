@@ -24,6 +24,7 @@ GEM
       public_suffix (>= 2.0.2, < 5.0)
     buftok (0.2.0)
     builder (3.2.4)
+    chronic (0.10.2)
     concurrent-ruby (1.1.6)
     crass (1.0.6)
     domain_name (0.5.20190701)
@@ -98,6 +99,8 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.7)
+    whenever (1.0.0)
+      chronic (>= 0.6.3)
     zeitwerk (2.3.0)
 
 PLATFORMS
@@ -106,6 +109,7 @@ PLATFORMS
 DEPENDENCIES
   dotenv-rails
   twitter
+  whenever
 
 BUNDLED WITH
    2.1.4
