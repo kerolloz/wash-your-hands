@@ -1,7 +1,8 @@
-require 'twitter'
 # require 'dotenv'
 # Dotenv.load
 # Dotenv.require_keys("CONSUMER_KEY", "CONSUMER_SECRET", "ACCESS_TOKEN", "ACCESS_SECRET")
+
+require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
   config.consumer_key        = ENV["CONSUMER_KEY"]
