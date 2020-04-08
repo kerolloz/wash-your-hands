@@ -11,3 +11,4 @@ client = Twitter::REST::Client.new do |config|
 end
 
 client.update('This is my first bot tweet!')
+puts "Tweet sent"
