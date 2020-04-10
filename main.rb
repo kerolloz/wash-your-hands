@@ -25,3 +25,4 @@ tweets = [
 
 to_be_tweeted = tweets.sample
 client.update(to_be_tweeted)
+puts to_be_tweeted
