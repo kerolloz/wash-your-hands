@@ -1,6 +1,6 @@
-# Wash Your Hands :robot:
+# Wash Your Hands 🤖
 
-> Wash your hands 🤲🏻 before giving this repo a star :star:
+> Wash your hands 🤲🏻 before giving this repo a star 🌟
 
 This is a very simple Twitter bot.
 
