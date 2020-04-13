@@ -25,13 +25,13 @@ ACCESS_SECRET=
 **_Follow_** me [_**@WashY0urHands1**_](https://twitter.com/WashY0urHands1)
 
 <div align="center">
-<img src="wash_hands.svg">
+  <img src="wash_hands.svg">
 </div>
 
 ---
 
 <div align="center">
-💦 <br>
-🤲 <br>
-<sup>Fighting COVID-19</sup>
+  💦 <br>
+  🤲 <br>
+  <sup>Fighting COVID-19</sup>
 </div>
