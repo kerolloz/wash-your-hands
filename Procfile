@@ -1,1 +1,0 @@
-worker: ruby main.rb
