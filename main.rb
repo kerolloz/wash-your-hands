@@ -23,9 +23,5 @@ tweets = [
   "WASH YOUR HANDS!!!"
 ]
 
-while true
-  to_be_tweeted = tweets.sample
-  client.update(to_be_tweeted)
-  puts to_be_tweeted
-  sleep(15 * 60) # 15 minutes => to seconds
-end
+to_be_tweeted = tweets.sample
+client.update(to_be_tweeted)
