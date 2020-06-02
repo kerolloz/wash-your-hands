@@ -1,7 +1,3 @@
-# require 'dotenv'
-# Dotenv.load
-# Dotenv.require_keys("CONSUMER_KEY", "CONSUMER_SECRET", "ACCESS_TOKEN", "ACCESS_SECRET")
-
 require 'twitter'
 
 client = Twitter::REST::Client.new do |config|
@@ -10,7 +6,6 @@ client = Twitter::REST::Client.new do |config|
   config.access_token        = ENV["ACCESS_TOKEN"]
   config.access_token_secret = ENV["ACCESS_SECRET"]
 end
-
 
 tweets = [
   "Did you wash your hands today? 🤔",

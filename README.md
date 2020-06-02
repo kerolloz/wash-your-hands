@@ -18,7 +18,10 @@ ACCESS_TOKEN=
 ACCESS_SECRET=
 ```
 
-- Uncomment the first 3 lines of [`main.rb`](./main.rb#L1:L3) (for local testing)
+- `source .env` => adds the variables to your shell environment
+- `ruby main.rb` => run the script
+
+You can use something like Heroku scheduler to deploy the bot!
 
 ## On Twitter
 
